@@ -97,9 +97,8 @@ The code implementation in multiple languages for this problem in can be found [
 ## Credits 
 
 - [Dimitrios Papakonstantinou](https://github.com/Turtel216)
-- [Petros Papakonstantinou]()
+- Petros Papakonstantinou
 
-**Spacial Thanks to**
+**Spacial Thanks to our ambassador**
 
 - [Παναγιώτης Παπαντώνης](https://github.com/PanagiotisPapantonis)
-- [Γιάννης Κέπας](https://github.com/Retr0-01)
